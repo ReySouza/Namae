@@ -139,7 +139,7 @@ const data = {
     },
       {
       name: 'Venturoso',
-      cost: -,
+      cost: 9,
       description: '+1 para testes de habilidade quando ele correr um risco desnecessário. Você pode repetir testes que resultam em falha crítica quando você estiver se arriscando',
     },
       {
