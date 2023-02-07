@@ -184,7 +184,7 @@ const data = {
    {
       name: 'Biwa Eufórica',
       type: 'Youjutsu',
-      cost: '3',
+      cost: 3,
       damage: 0,
       time: '1 turno',
       duration: '1 turno',
@@ -194,7 +194,7 @@ const data = {
       name: 'Reverberação de Heian-Kyo',
       type: 'Youjutsu',
       cost: 4,
-      damage: 4d6,
+      damage: '4d6',
       time: '1 turno',
       duration: '1 turno',
       description: 'A biwa emite um grito estridente que afeta até 3 criaturas, elas devem realizar um teste de força e tomar 4d6 de dano se falharem ou metade no caso de sucesso',
@@ -202,8 +202,8 @@ const data = {
       {
       name: 'Ira da Tormenta',
       type: 'Youjutsu',
-      cost: '2',
-      damage: 2d6+5,
+      cost: 2,
+      damage: '2d6+5',
       time: '1 turno ou 1 reação',
       duration: '1 turno ou 1 reação',
       description: 'Você eletrifica sua lâmina e a usa para parar um ataque. Ao suceder em um parry, você substitui o dano de sua arma por 2d6+5 de dano elétrico, caso falhe, você pode escolher dar metade do dano para a criatura ou reduzir o dano que você tomará por esta quantidade',
