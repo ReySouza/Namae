@@ -64,8 +64,8 @@ h2.grid-title {
     border-radius: 3px;
     border: solid;
     border-width: 0.1px;
-    border-color: #ff0000;
-    box-shadow: 0 0 10px #ff0000;
+    border-color: #feb452;
+    box-shadow: 0 0 10px #feb452;
 }
 
 .box {
@@ -90,9 +90,9 @@ h2.grid-title {
 .characterPhoto {
     border: solid;
     border-width: 2px;
-    border-color: #ff0000;
+    border-color: #feb452;
     border-radius: 50%;
-    box-shadow: 0 0 10px #ff0000;
+    box-shadow: 0 0 10px #feb452;
 }
 
 .dice {
@@ -126,9 +126,9 @@ h2.grid-title {
     color: #fff;
     font-size: 22px;
     background: #0a0b0c;
-    border: 0.1px solid #ff0000;
+    border: 0.1px solid #feb452;
     margin-right: 50px;
-    box-shadow: 0 0 10px #ff0000;
+    box-shadow: 0 0 10px #feb452;
 }
 
 table.expertise {
@@ -206,14 +206,14 @@ table.expertise td button {
     color: #fff;
     font-size: 22px;
     background: #0a0b0c;
-    border: 0.1px solid #ff0000;
+    border: 0.1px solid #feb452;
     margin-right: 50px;
-    box-shadow: 0 0 10px #ff0000;
+    box-shadow: 0 0 10px #feb452;
 }
 
 .expertise2 td:nth-child(2).Sazonal {
-   color: #ff0000;
-    box-shadow: 0 0 10px #ff0000;
+   color: #feb452;
+    box-shadow: 0 0 10px #feb452;
   }
 
 table.expertise2 {
