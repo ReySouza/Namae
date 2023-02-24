@@ -778,7 +778,7 @@ function toggleSidebar() {
 }
 
 function openSidebar() {
-  document.getElementById("mySidebar").style.width = "250px";
+  document.getElementById("mySidebar").style.width = "500px";
 }
 
 function closeSidebar() {
@@ -806,17 +806,107 @@ function closeSidebar() {
   function updateSidebarContent(title) {
     let content;
     switch (title) {
-      case "A Lenda da Guerreira que Celebra a Maidono":
-        content = "This is some custom content for the 'A Lenda da Guerreira que Celebra a Maidono' section.";
+      case "A Lenda do Sino de Jetavana":
+        content = "";
         break;
       case "A Verdadeira Face do Deus Secreto":
-        content = "This is some custom content for the 'A Verdadeira Face do Deus Secreto' section.";
+        content = "";
         break;
-      case "Fé Nativa em meio a terra morta":
-        content = "This is some custom content for the 'Fé Nativa em meio a terra morta' section.";
+      case "A Lendária Tapeçaria do Outono":
+        content = "";
+        break;
+      case "Deusa que pinta as folhas de laranja":
+        content = "";
+        break;
+      case "Símbolo da solidão":
+        content = "";
+        break;
+      case "Símbolo da ancestralidade":
+        content = "";
+        break;
+      case "Símbolo da prosperidade":
+        content = "";
+        break;
+      case "Shichiseiken e o pacto secreto":
+        content = "";
+        break;
+      case "Seguindo os rastros de um bastardo":
+        content = "";
+        break;
+      case "Dissonância Tempestuosa":
+        content = "";
+        break;
+      case "A Biwa pristina de Benzaiten":
+        content = "";
+        break;
+      case "Ressonância Perfeita":
+        content = "";
+        break;
+      case "Estrondoso Tambor de Raijin":
+        content = "";
+        break;
+      case "Caminho de furia e poder":
+        content = "";
+        break;
+      case "Heikejutsu":
+        content = "";
+        break;
+      case "Gagaku-Biwa":
+        content = "";
+        break;
+      case "Gogen-Biwa":
+        content = "";
+        break;
+      case "Moso-Biwa":
+        content = "";
+        break;
+      case "O Grande contador de histórias":
+        content = "";
+        break;
+      case "Grande Patronagem":
+        content = "";
+        break;
+      case "Uma Nova Liga":
+        content = "";
+        break;
+      case "Ensinamentos de um velho bardo":
+        content = "";
+        break;
+      case "Joruri":
+        content = "";
+        break;
+      case "Shomyo":
+        content = "";
+        break;
+      case "Gagaku":
+        content = "";
+        break;
+      case "Hogaku":
+        content = "";
+        break;
+      case "Hyakki Yagyo":
+        content = "";
+        break;
+      case "Maldição Celestial":
+        content = "";
+        break;
+      case "Sutra do coração e da alma":
+        content = "";
+        break;
+      case "O Grande espírito vingativo de Taira":
+        content = "";
+        break;
+      case "O Grande Desfile":
+        content = "";
+        break;
+      case "Uma nova fonte de energia":
+        content = "";
+        break;
+      case "Inversão social total":
+        content = "";
         break;
       default:
-        content = "This is some default content for an undefined section.";
+        content = "Se você encontrou esse foco, ele está trancado (ou você achou um bug)";
     }
     sidebar.innerHTML = `
       <a href="#" class="closebtn" onclick="toggleNav()">&times;</a>
