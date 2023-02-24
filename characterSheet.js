@@ -807,103 +807,97 @@ function closeSidebar() {
     let content;
     switch (title) {
       case "A Lenda do Sino de Jetavana":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "A Verdadeira Face do Deus Secreto":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br> No antigo Mausoléu Umebachi-Goryo, na vila destruída de Taishi, vocês fizeram uma descoberta incrivel, vocês libertaram uma nova força ao mundo, o Deus Secreto, absoluto em seu poder e supremo em sua sagacidade estará cada vez mais próximo de vocês, sintam seu poder correndo por tuas veias e vejam a natureza respirar e a energia se movimentar ";
         break;
       case "A Lendária Tapeçaria do Outono":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br> ";
         break;
       case "Deusa que pinta as folhas de laranja":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Símbolo da solidão":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Símbolo da ancestralidade":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Símbolo da prosperidade":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Shichiseiken e o pacto secreto":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Seguindo os rastros de um bastardo":
-        content = "";
+        content = "Gasto: 3 <br> Requisito:  <br>";
         break;
       case "Dissonância Tempestuosa":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "A Biwa pristina de Benzaiten":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Ressonância Perfeita":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Estrondoso Tambor de Raijin":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Caminho de furia e poder":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Heikejutsu":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Gagaku-Biwa":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Gogen-Biwa":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Moso-Biwa":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "O Grande contador de histórias":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Grande Patronagem":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Uma Nova Liga":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Ensinamentos de um velho bardo":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br> Seu dono era um carpinteiro muito habilidoso, mas essa habilidade exigiu muita prática e um dedicação enorme a arte. Você consegue reconhecer ";
         break;
       case "Joruri":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Shomyo":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Gagaku":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Hogaku":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
         break;
       case "Hyakki Yagyo":
-        content = "";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br> Pouco antes de vocês se encontrarem, um livro chamado Shūgaishō, cujo autor é desconhecido, continha instruções sobre como sobreviver ao Hyakki Yagyo, caso ele viesse a ocorrer. A instrução é não sair de casa em hipotése alguma e aqueles que ouvirem o desfile, devem conjurar estas palavras <br><br> KA-TA-SHI-HA-YA, E-KA-SE-NI-KU-RI-NI, TA-ME-RU-SA-KE, TE-E-HI, A-SHI-E-HI, WA-RE-SHI-KO-NI-KE-RI. Talvez seja tarde demais para isso";
         break;
       case "Maldição Celestial":
-        content = "";
+        content = "Gasto: 2 PF (Coletivo) <br> Requisito: Nenhum <br> Não é possível que tudo tenha sido uma coincidência, o roubo da Shichiseiken e o ataque em Naniwa devem estar relacionados de alguma forma, tudo foi planejado, a vinda do imperador, o fluxo de Youkais nunca vistos antes no dia do festival de Tsukimi, o festival da Lua. Alguma coisa está prestes a acontecer e vocês são os catalisadores para o cataclisma";
         break;
       case "Sutra do coração e da alma":
-        content = "";
+        content = "Gasto: 3 PF <br> Requisito: Adquirir o Orb Ultramarino <br> Hoichi sem orelhas era um antigo biwa hoshi extremamente habilidoso com seu instrumento. Um dia, ele foi chamado por um Samurai para se apresentar para seu senhor, um daimyo poderoso da epoca, a apresentação foi incrivel e ele então foi chamado para fazer a mesma apresentação no dia seguinte. Quando o Samurai se dirigiu aos seus aposentos para leva-lo ao Daimyo, ele não encontrou Hoichi, ele saiu para procurar e o encontrou tocando furiosamente em um cemitério. Percebendo que Hoichi havia sido possuido por fantasmas, o sacerdote de um templo próximo pintou o corpo de Hoichi com os kanjis do sutra do coração. Quando o samurai que agora estava possuido pelo fantasma foi interromper o exorcismo, ele viu que o corpo de Hoichi estava invisivel, exceto pelas orelhas que ele então arrancou <br> Ao comprar este foco, você poderá tentar encontrar o espírito que possuiu Hoichi e usar o orb ultramarino ";
         break;
       case "O Grande espírito vingativo de Taira":
-        content = "";
-        break;
-      case "O Grande Desfile":
-        content = "";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br> Taira no Masakado teria sido um dos principais responsáveis pela crise descrita no Heike Monogatari, uma recontagem dos conflitos entre os clãs Taira e Minamoto que levaram ao fim do regime Imperial no Japão. Sua resistência ao clã Minamoto e as forças imperiais foram tão grandes que ele foi considerado um Deus para muitos que viviam na epoca. No momento de sua morte, histórias começaram a circular de que sua cabeça se ergueria de Tokyo e se deslocaria para Kyoto para conseguir vingança naqueles que o mataram, então decidiram pregar ela no tumulo <br> Ao comprar este foco, você poderá encontrar a ultima localização deste espírito e utilizar seu orb nele ";
         break;
       case "Uma nova fonte de energia":
-        content = "";
-        break;
-      case "Inversão social total":
-        content = "";
+        content = "Gasto: 1 PF <br> Requisito: Nenhum <br> Durante a sua vida inteira como um objeto independente, você esteve a procura de uma nova fonte de energia, algo que poderia lhe manter vivo indefinitivamente, este orb lhe deu essa chance, você só precisará usar ele agora";
         break;
       default:
         content = "Se você encontrou esse foco, ele está trancado (ou você achou um bug)";
