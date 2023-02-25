@@ -813,76 +813,76 @@ function closeSidebar() {
         content = "Gasto: Livre <br> Requisito: Nenhum <br> No antigo Mausoléu Umebachi-Goryo, na vila destruída de Taishi, vocês fizeram uma descoberta incrivel, vocês libertaram uma nova força ao mundo, o Deus Secreto, absoluto em seu poder e supremo em sua sagacidade estará cada vez mais próximo de vocês, sintam seu poder correndo por tuas veias e vejam a natureza respirar e a energia se movimentar ";
         break;
       case "A Lendária Tapeçaria do Outono":
-        content = "Gasto: 3 <br> Requisito: Nenhum <br> Dentre as divindades associadas ao Outono, talvez a mais prolífica seja Tatsuta-hime, a Deusa do outono e dos ventos outonescos, sua residência ficaria localizado no Mt. Tatsuta, parte das montanhas Omine. É dito que essa Deusa é extremamente habilidosa na arte da costura e que todo ano, ela costuraria as folhas de outono nas árvores e os pedaços de grama seca, formando um tapete rico que cobriria florestas inteiras, algumas fontes dizem que ela também pinta as folhas manualmente para que fiquem com os tons alaranjandos, mas ela não é muito boa nisso então as folhas terminam com as cores irregulares e mal colocadas <br> Ao comprar este foco, você ganhará 5 pontos sazonais";
+        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> Dentre as divindades associadas ao Outono, talvez a mais prolífica seja Tatsuta-hime, a Deusa do outono e dos ventos outonescos, sua residência ficaria localizado no Mt. Tatsuta, parte das montanhas Omine. É dito que essa Deusa é extremamente habilidosa na arte da costura e que todo ano, ela costuraria as folhas de outono nas árvores e os pedaços de grama seca, formando um tapete rico que cobriria florestas inteiras, algumas fontes dizem que ela também pinta as folhas manualmente para que fiquem com os tons alaranjandos, mas ela não é muito boa nisso então as folhas terminam com as cores irregulares e mal colocadas <br> Ao comprar este foco, você ganhará 5 pontos sazonais";
         break;
       case "Deusa que pinta as folhas de laranja":
-        content = "Gasto: 2 <br> Requisito: Nenhum <br> As celebrações associadas a Tatsuta-hime tipicamente envolvem orações para proteção contra tempestades, espíritos vingativos e para sucesso nas colheitas, em alguns lugares, as mikos que são chamadas para fazer os rituais a essa Deusa são incorporadas a própria natureza divina dela, assim se tornando avatares vivos de seu poder. Você consegue sentir o poder desta Deusa ainda que indiretamente, as chamas em suas costas se alimentam da mesma energia que ela libera ao pintar as folhas e as soprar pelo vento <br> Ao comprar este foco, você notará que o vento sempre parecerá ficar mais forte onde você está, você pode invocar uma pequena tempestade elétrica que irá pairar sobre o campo de batalha, a qualquer momento, uma descarga elétrica poderá atingir um alvo de sua escolha.";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br> As celebrações associadas a Tatsuta-hime tipicamente envolvem orações para proteção contra tempestades, espíritos vingativos e para sucesso nas colheitas, em alguns lugares, as mikos que são chamadas para fazer os rituais a essa Deusa são incorporadas a própria natureza divina dela, assim se tornando avatares vivos de seu poder. Você consegue sentir o poder desta Deusa ainda que indiretamente, as chamas em suas costas se alimentam da mesma energia que ela libera ao pintar as folhas e as soprar pelo vento <br> Ao comprar este foco, você notará que o vento sempre parecerá ficar mais forte onde você está, você pode invocar uma pequena tempestade elétrica que irá pairar sobre o campo de batalha, a qualquer momento, uma descarga elétrica poderá atingir um alvo de sua escolha.";
         break;
       case "Símbolo da solidão":
-        content = "Gasto: 4 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com símbolo da ancestralidade e símbolo da prosperidade<br> <br>";
+        content = "Gasto: 4 PF <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com símbolo da ancestralidade e símbolo da prosperidade<br> Para muitas pessoas, a estação do outono é uma epoca de solidão e introspecção. Conforme o mundo se aquieta e seu prepara para as longas noites de inverno, a natureza morre, este processo é visto pelo Shinto como uma parte fundamental da natureza, um lembrete de que tudo é transitório e impermanente <br> Ao comprar este foco, você poderá adicionar uma habilidade sazonal para seu Inugami, ele poderá aplicar um debuff em um alvo de sua escolha, durante 1d4 turnos, ele terá que fazer todos os testes com um modificador de -2";
         break;
       case "Símbolo da ancestralidade":
-        content = "Gasto: 4 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com símbolo da prosperidade e símbolo da solidão <br> Um dos principais festivais que ocorre durante o Outono é o festival de Higan. Um feriado Budista celebrado durantes os dois equinócios que ocorrem ao longo do ano. A palavra Higan em si se refere ao outro lado do Inferno Budista, do outro lado do rio Sanzu, na margem oposta da entrada do Inferno  <br> Ao comprar este foco, você poderá criar uma aura de luto e lembranças que irá ressoar com espíritos próximos, se existir algum espírito na proximidade, ele irá atacar o alvo por você, quanto mais espíritos houverem na área, maior é a chance de que algum venha ao seu chamado ";
+        content = "Gasto: 4 PF <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com símbolo da prosperidade e símbolo da solidão <br> Um dos principais festivais que ocorre durante o Outono é o festival de Higan. Um feriado Budista celebrado durantes os dois equinócios que ocorrem ao longo do ano. A palavra Higan em si se refere ao outro lado do Inferno Budista, do outro lado do rio Sanzu, na margem oposta da entrada do Inferno  <br> Ao comprar este foco, você poderá criar uma aura de luto e lembranças que irá ressoar com espíritos próximos, se existir algum espírito na proximidade, ele irá atacar o alvo por você, quanto mais espíritos houverem na área, maior é a chance de que algum venha ao seu chamado ";
         break;
       case "Símbolo da prosperidade":
-        content = "Gasto: 4 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com símbolo da ancestralidade e símbolo da solidão <br> O calendário tradicional utilizado pelo povo Japones é especificamente feito para auxiliar nos momentos de plantar e colher, plantar os alimentos durante a primavera para colhe-los antes do inverno é essencial para garantir que o povo não passe fome durante o inverno. <br> Ao comprar este foco, você sentirá que as chamas em suas costas irão interagir de forma mais vigorosa com o ambiente, ao seu comando, qualquer plantação ou colheita que estiver ao seu redor irá experienciar um crescimento abnormal e quase instantâneo, o efeito da colheita irá variar de cultura para cultura, algumas poderão servir de alimentos enquanto outras podem ser comercializadas";
+        content = "Gasto: 4 PF <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com símbolo da ancestralidade e símbolo da solidão <br> O calendário tradicional utilizado pelo povo Japones é especificamente feito para auxiliar nos momentos de plantar e colher, plantar os alimentos durante a primavera para colhe-los antes do inverno é essencial para garantir que o povo não passe fome durante o inverno. <br> Ao comprar este foco, você sentirá que as chamas em suas costas irão interagir de forma mais vigorosa com o ambiente, ao seu comando, qualquer plantação ou colheita que estiver ao seu redor irá experienciar um crescimento abnormal e quase instantâneo, o efeito da colheita irá variar de cultura para cultura, algumas poderão servir de alimentos enquanto outras podem ser comercializadas";
         break;
       case "Shichiseiken e o pacto secreto":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: Livre <br> Requisito: Traduzir os documentos encontrados no Mausoléu <br><br> Finalmente o nome verdadeiro do Deus secreto foi revelado, porém ainda não é possível determinar a razão para ele estar se envolvendo com a Shichiseiken e o Principe Shotoku, é necessário investigar mais a fundo";
         break;
       case "Seguindo os rastros de um bastardo":
-        content = "Gasto: 3 <br> Requisito:  <br>";
+        content = "Gasto: 3 PF <br> Requisito: Ir para a cidade de seu mestre <br> A sua história certamente foi trágica, você poderia ter sido aceito como um tesouro oficial da corte imperial Japonesa e vivido dentro de um palácio banhado em ouro e jade, se pelo menos, o idiota do seu criador não tivesse vacilado. Já está na hora de você pagar uma bela visita a ele, se você pelo menos soubesse onde ele mora ";
         break;
       case "Dissonância Tempestuosa":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br> Tempestades talvez sejam as maiores fontes de vida e energia que existem, este poder bruto, capaz de fazer a terra estremecer e o chão ceder, é comparavel apenas com a furia de um Deus poderoso, esta dissonância, caótica, barulhenta e exilerante foi a responsável pela sua criação, você reconhece que no fim do dia, você é um filho do caos, da destruição e da mais pura e desinibida energia <br> Ao comprar este foco, você será alimentado pela eletricidade, todo dano que você receber de ataques elétricos serão cortados pela metade e podem ser convertidos em Youjutsu para você";
         break;
       case "A Biwa pristina de Benzaiten":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 1 PF <br> Requisito: Ter a vantagem Benção ou Benção Superior <br> Este foco é mutualmente exclusivo com O Estrondoso tambor de Raijin <br> Benzaiten é a Deusa sincrética da música, das artes e da beleza. Sua origem na religião Hindu foi muito alterada quando ela chegou ao Japão, sua natureza divina foi mesclada e misturada com centenas de outros Deuses, esses outros Deuses deram dezenas de novas facetas a ela. Uma destas facetas e talvez uma das mais extraordinárias, é sua relação com o Dragão-Rei, o controlador dos céus, o governador dos mares e o Rei da Capital Lunar, a unica criatura capaz de se sentar ao lado de Amaterasu nos céus. Benzaiten foi a terceira filha do Rei Dragão, como princesa do Palácio, ela também teria o poder de controlar os mares e poderia assumir uma forma dracônica <br> Ao comprar este foco, você será guiado por Benzaiten, você possuirá maior facilidade para se comunicar com ela e dependendo da ocasião, ela poderá pessoalmente descer dos céus para fornecer apoio. Lembre de a tratar com o maior respeito e admiração";
         break;
       case "Ressonância Perfeita":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 3 PF <br> Requisito: Leia o sutra de Lótus <br> Suas habilidades ressonam perfeitamente com Benzaiten, você se sente cada vez mais alinhado ao seu poder mágico. Você fortalece sua relação com a Deusa e se torna um Paladino em seu nome <br> Ao comprar este foco, você adquire uma habilidade a mais como recompensa por servir Benzaiten. Escolha entre Aid e Zone of Truth";
         break;
       case "Estrondoso Tambor de Raijin":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 1 PF <br> Requisito: Ter a vantagem Benção ou Benção Superior <br> Este foco é mutualmente exclusivo com A Biwa pristina de Benzaiten <br> Raijin é um dos Deuses mais poderosos da mitologia Shinto. Ele é representado com uma face grotesca e um corpo muito musculoso. Ele é rodeado por tambores de Taiko que ele usa para criar os barulhos dos trovões. Quando nuvens negras pairam sobre o ar, este é tipicamente um sinal que Raijin pode estar tocando seus tambores no céu, cada vez que ele esmaga um de seus tambores, uma trovoada ocorre, fazendo com que a terra inteira estremeça. As condições de seu nascimento são bizarras, em algumas histórias, uma centopéia Youkai colossal chamada Oomukade está a devastar o Japão, dentro do Estômago da centopéia, Raijin nasce e logo começa a bater em seus tambores, seu poder é tão grande que a centopéia acaba sendo explodida de dentro pra fora <br> Ao comprar este foco, você terá maior facilidade para se comunicar com ele e dependendo da ocasião, ele poderá fornecer apoio diretamente. Ele possui um pávio curtissimo então não o irrite em hipotése alguma  ";
         break;
       case "Caminho de furia e poder":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 3 PF <br> Requisito: Encontre um templo dedicado a Raijin <br> Suas habilidades se alinharam ao caos e a destruição promovido por Raijin, você se sente mais poderoso a cada trovão que ouve no céu. Você decide fortalecer sua relação com ele e se torna seu campeão <br> Ao comprar este foco, você adquire uma habilidade a mais como recompensa por servir Raijin. Escolha entre Banishing Smite e Blinding Smite";
         break;
       case "Heikejutsu":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br> Cada movimento que você faz, cada fôlego de vida que você toma, é parte da sua energia indo embora, você vive em uma constante corrida contra o tempo, sabendo que um dia, você deixará de existir. A partir deste ponto, tudo que você fizer precisará ser calculado e planejando, você ganhou uma oportunidade para explorar este mundo, como todos os seus horrores e belezas, não morra em vão";
         break;
       case "Gagaku-Biwa":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 3 <br> Requisito: Nenhum <br> A Biwa Gagaku é um tipo de Biwa com 4 cordas, tipicamente tocada em palácios e templos como ambiência para os cultos e os festivais que ocorrem. Você pode se sintonizar com a música produzida com este tipo de Biwa e talvez até mesmo alterar o tipo de magia que você seria capaz de produzir <br> Ao comprar este foco, você poderá obter feitiços que só estariam disponiveis para Shintoistas";
         break;
       case "Gogen-Biwa":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 3 <br> Requisito: Nenhum <br> A Biwa Gogen é uma variante da Biwa com 5 cordas, ela veio da China durante um período em que a corte Imperial buscava modernizar seus rituais, particularmente aqueles relacionados aos mortos. Esta Biwa foi padronizada para apresentações em templos durante 200 anos até seu sumiço repentino, agora ela é vista apenas em cemitérios. Você obtém conhecimento sobre essa antiga variante e pode customizar seu corpo para conseguir ter acesso ao seu poder <br> Ao comprar este foco, você ganhará a vantagem Médium e poderá se comunicar com espíritos mais facilmente <br>";
         break;
       case "Moso-Biwa":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 3 <br> Requisito: Nenhum <br> A Biwa Moso é uma biwa com 4 cordas, tipicamente tocada ao som de Mantras budistas, ela possui um corpo menor e é feita com materiais mais refinados, seu afinamento também é diferente, atingindo apenas E, B, E e A. Você pode customizar o corpo de sua Biwa e talvez alterar o tipo de magia que você seria capaz de produzir <br> Ao comprar este foco, você poderá adicionar uma vantagem de conhecimento de Teologia Budista e poderá ler Sutras e entender Mandalas como se fosse um Budista iniciado ";
         break;
       case "O Grande contador de histórias":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 2 PF <br> Requisito: Nenhum <br> Biwa-Hoshi é um nome dado para os monges que vagavam pelo Japão tocando sua Biwa, sem qualquer preocupação com o que iriam comer ou onde iriam dormir, estes homens eram tipicamente pobres e cegos, essa era a unica atividade que poderiam desenvolver nas ruas sem que fossem afugentados por donos de terras ou humilhados por Samurais que passavam pelas vilas. Estas pessoas foram extremamente importantes pois foram os responsáveis pela preservação das histórias tradicionais Japonesas, com seus instrumentos, eles recitavam os grandes epicos";
         break;
       case "Grande Patronagem":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 1 PF <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Uma nova Liga <br> Apesar de serem moradores de rua, estes homens não estava inteiramente desamparados, muitos deles decidiram formar guildas e se juntar. Uma destas guildas está localizada em Kyoto, você poderia tentar se juntar";
         break;
       case "Uma Nova Liga":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 1 PF <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com Grande Patronagem <br> Você sabe da existência de uma pequena guilda que aceita monges e diversos outros grupos 'intocáveis', você sabe que estas organizações estão envolvidas em diversos esquemas de corrupção diferentes, os fundos gerados pela guilda são todos transferidos para os templos ou vão diretamente para os bolsos dos Samurais. Se você quiser participar de uma guilda, o melhor caminho é montar a sua própria ";
         break;
       case "Ensinamentos de um velho bardo":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br> Seu dono era um carpinteiro muito habilidoso, mas essa habilidade exigiu muita prática e um dedicação enorme a arte. Você consegue reconhecer ";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br> Seu dono era um carpinteiro muito habilidoso, mas essa habilidade exigiu muita prática e um dedicação enorme a arte. Seu corpo é perfeito, apesar das cicatrizes de batalha, da madeira lascada e das cordas desfiadas, você ainda está muito bem conservado. ";
         break;
       case "Joruri":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> <br> Ao comprar este foco, ";
         break;
       case "Shomyo":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> <br>";
         break;
       case "Gagaku":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> <br>";
         break;
       case "Hogaku":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 3 PF <br> Requisito: Nenhum <br> <br> ";
         break;
       case "Hyakki Yagyo":
         content = "Gasto: Livre <br> Requisito: Nenhum <br> Pouco antes de vocês se encontrarem, um livro chamado Shūgaishō, cujo autor é desconhecido, continha instruções sobre como sobreviver ao Hyakki Yagyo, caso ele viesse a ocorrer. A instrução é não sair de casa em hipotése alguma e aqueles que ouvirem o desfile, devem conjurar estas palavras <br><br> KA-TA-SHI-HA-YA, E-KA-SE-NI-KU-RI-NI, TA-ME-RU-SA-KE, TE-E-HI, A-SHI-E-HI, WA-RE-SHI-KO-NI-KE-RI. Talvez seja tarde demais para isso";
