@@ -807,25 +807,25 @@ function closeSidebar() {
     let content;
     switch (title) {
       case "A Lenda do Sino de Jetavana":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: Livre <br> Requisito: Nenhum <br> Com as mãos habilidosas e a mente agitada, O luthier trabalha, dedos entrelaçados, Criando uma biwa, obra de arte, Para preencher um espaço vazio, uma parte. Mas à medida que a noite cai e o vento começa a uivar, Uma sombra se aproxima, uma fera a rondar, E em seu rastro, a biwa treme, Como se seu coração pudesse se quebrar. Mas a sombra se aproxima e a biwa grita, Suas cordas despedaçadas, como em um pesadelo, E o coração do luthier se parte e se desfaz, Enquanto vê sua criação, sua obra-prima, em paz. A tempestade continua, a biwa cai, Sua madeira se despedaça, suas cordas emaranhadas, E o luthier cai de joelhos, Seu coração em pedaços, sua alma a descansar.";
         break;
       case "A Verdadeira Face do Deus Secreto":
         content = "Gasto: Livre <br> Requisito: Nenhum <br> No antigo Mausoléu Umebachi-Goryo, na vila destruída de Taishi, vocês fizeram uma descoberta incrivel, vocês libertaram uma nova força ao mundo, o Deus Secreto, absoluto em seu poder e supremo em sua sagacidade estará cada vez mais próximo de vocês, sintam seu poder correndo por tuas veias e vejam a natureza respirar e a energia se movimentar ";
         break;
       case "A Lendária Tapeçaria do Outono":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br> ";
+        content = "Gasto: 3 <br> Requisito: Nenhum <br> Dentre as divindades associadas ao Outono, talvez a mais prolífica seja Tatsuta-hime, a Deusa do outono e dos ventos outonescos, sua residência ficaria localizado no Mt. Tatsuta, parte das montanhas Omine. É dito que essa Deusa é extremamente habilidosa na arte da costura e que todo ano, ela costuraria as folhas de outono nas árvores e os pedaços de grama seca, formando um tapete rico que cobriria florestas inteiras, algumas fontes dizem que ela também pinta as folhas manualmente para que fiquem com os tons alaranjandos, mas ela não é muito boa nisso então as folhas terminam com as cores irregulares e mal colocadas <br> Ao comprar este foco, você ganhará 5 pontos sazonais";
         break;
       case "Deusa que pinta as folhas de laranja":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 2 <br> Requisito: Nenhum <br> As celebrações associadas a Tatsuta-hime tipicamente envolvem orações para proteção contra tempestades, espíritos vingativos e para sucesso nas colheitas, em alguns lugares, as mikos que são chamadas para fazer os rituais a essa Deusa são incorporadas a própria natureza divina dela, assim se tornando avatares vivos de seu poder. Você consegue sentir o poder desta Deusa ainda que indiretamente, as chamas em suas costas se alimentam da mesma energia que ela libera ao pintar as folhas e as soprar pelo vento <br> Ao comprar este foco, você notará que o vento sempre parecerá ficar mais forte onde você está, você pode invocar uma pequena tempestade elétrica que irá pairar sobre o campo de batalha, a qualquer momento, uma descarga elétrica poderá atingir um alvo de sua escolha.";
         break;
       case "Símbolo da solidão":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 4 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com símbolo da ancestralidade e símbolo da prosperidade<br> <br>";
         break;
       case "Símbolo da ancestralidade":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 4 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com símbolo da prosperidade e símbolo da solidão <br> Um dos principais festivais que ocorre durante o Outono é o festival de Higan. Um feriado Budista celebrado durantes os dois equinócios que ocorrem ao longo do ano. A palavra Higan em si se refere ao outro lado do Inferno Budista, do outro lado do rio Sanzu, na margem oposta da entrada do Inferno  <br> Ao comprar este foco, você poderá criar uma aura de luto e lembranças que irá ressoar com espíritos próximos, se existir algum espírito na proximidade, ele irá atacar o alvo por você, quanto mais espíritos houverem na área, maior é a chance de que algum venha ao seu chamado ";
         break;
       case "Símbolo da prosperidade":
-        content = "Gasto: Livre <br> Requisito: Nenhum <br>";
+        content = "Gasto: 4 <br> Requisito: Nenhum <br> Este foco é mutualmente exclusivo com símbolo da ancestralidade e símbolo da solidão <br> O calendário tradicional utilizado pelo povo Japones é especificamente feito para auxiliar nos momentos de plantar e colher, plantar os alimentos durante a primavera para colhe-los antes do inverno é essencial para garantir que o povo não passe fome durante o inverno. <br> Ao comprar este foco, você sentirá que as chamas em suas costas irão interagir de forma mais vigorosa com o ambiente, ao seu comando, qualquer plantação ou colheita que estiver ao seu redor irá experienciar um crescimento abnormal e quase instantâneo, o efeito da colheita irá variar de cultura para cultura, algumas poderão servir de alimentos enquanto outras podem ser comercializadas";
         break;
       case "Shichiseiken e o pacto secreto":
         content = "Gasto: Livre <br> Requisito: Nenhum <br>";
