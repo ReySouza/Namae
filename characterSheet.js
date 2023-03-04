@@ -7,7 +7,7 @@ const data = {
   birthplace: 'Heian-kyo',
   points: 1,
   energy: 11,
-  season: 4,
+  season: 13,
   focus: 1,
 
   life: {
